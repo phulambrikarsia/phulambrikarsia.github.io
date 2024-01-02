@@ -8,9 +8,9 @@ Attach link to resume.
 ### Project 1
 
 - [link](https://phulambrikarsia.github.io/movies-project/)
-- photo
 - project description, few lines
 - Technical Skills: **SQL**
 
+![](/assets/img/schema.png)
 
 
