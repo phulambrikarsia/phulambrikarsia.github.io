@@ -8,10 +8,12 @@ Attach link to resume.
 ## [Project 1: SQL Movie Analytics](https://phulambrikarsia.github.io/movies-project/)
 <div>
 <img align="right" width="40%" height="40%" src="/assets/img/schema.png">
+  
 - Using SQL to analyze a movies database. I start with broad exploratory analysis about the data, and then delve deeper into genre-specific characteristics of movies, characters and dialogues.
+
 - Skills: **SQL**
 </div>
-
+<br>
   
 ## [Project 2: Twitter Sentiment Analysis](https://ucladatares.medium.com/twitter-sentiment-analysis-analyzing-the-use-of-hashtags-in-the-black-lives-matter-movement-f9e5d9013ff9)
 
