@@ -5,7 +5,7 @@ Sia's Introduction - include skills.
 Attach link to resume.
 
 # Projects
-## [Project 1](https://phulambrikarsia.github.io/movies-project/)
+## [Project 1: SQL Movie Analytics](https://phulambrikarsia.github.io/movies-project/)
 
 <img align="right" width="40%" height="40%" src="/assets/img/schema.png">
 
