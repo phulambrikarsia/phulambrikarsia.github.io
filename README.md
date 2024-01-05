@@ -11,6 +11,5 @@ Attach link to resume.
 - project description, few lines
 - Technical Skills: **SQL**
 
-![](/assets/img/schema.png)
-<img src="/assets/img/schema.png"  width="60%" height="30%">
+<img src="/assets/img/schema.png"  width="50%" height="50%">
 
