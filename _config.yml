@@ -1,4 +1,6 @@
 title: Sia Phulambrikar
 logo: /assets/img/headshot_circle.jpg
-description: <a href="https://www.linkedin.com/in/phulambrikarsia">LinkedIn</a>
+description: <a href="https://www.linkedin.com/in/phulambrikarsia" class="social-icon si-rounded si-small si-linkedin"> <i class="icon-linkedin"></i> </a>
+
+#<a href="https://www.linkedin.com/in/phulambrikarsia">LinkedIn</a>
 theme: jekyll-theme-minimal
