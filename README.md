@@ -4,6 +4,8 @@ Sia's Introduction - include skills.
 # Resume
 Attach link to resume.
 
+<a href="https://www.linkedin.com/in/phulambrikarsia" class="social-icon si-rounded si-small si-linkedin"> <i class="icon-linkedin"></i> </a>
+
 # Projects
 ## [Project 1: SQL Movie Analytics](https://phulambrikarsia.github.io/movies-project/)
 
