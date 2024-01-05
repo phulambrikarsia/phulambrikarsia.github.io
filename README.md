@@ -7,10 +7,12 @@ Attach link to resume.
 ## Projects
 ### Project 1
 
+|||---|||
+
 - [link](https://phulambrikarsia.github.io/movies-project/)
 - project description, few lines
 - Technical Skills: **SQL**
 
 ![](/assets/img/schema.png)
 
-
+|||---|||
