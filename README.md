@@ -6,6 +6,7 @@ Attach link to resume.
 
 # Projects
 <p>
+
 ## [Project 1: SQL Movie Analytics](https://phulambrikarsia.github.io/movies-project/)
 
 <img align="right" width="40%" height="40%" src="/assets/img/schema.png">
@@ -14,6 +15,7 @@ Attach link to resume.
 - Skills: **SQL**
 </p>
 <p>
+  
 ## [Project 2: Twitter Sentiment Analysis](https://ucladatares.medium.com/twitter-sentiment-analysis-analyzing-the-use-of-hashtags-in-the-black-lives-matter-movement-f9e5d9013ff9)
 
 <img align="left" width="40%" height="40%" src="/assets/img/timeline.png">
