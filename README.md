@@ -5,7 +5,7 @@ Sia's Introduction - include skills.
 Attach link to resume.
 
 ## Projects
-### [Project 1] (https://phulambrikarsia.github.io/movies-project/)
+### ![Project 1] (https://phulambrikarsia.github.io/movies-project/)
 - Using SQL to analyze a movies database. I start with broad exploratory analysis about the data, and then delve deeper into genre-specific characteristics of movies, characters and dialogues.
 - Skills: **SQL**
 
