@@ -25,7 +25,9 @@ I am Sia Phulambrikar, a Junior at UCLA double majoring in Data Theory and Econo
 - I conducted time series data analysis of Australian Monthly Drug Sales using R. Following some initial exploratory analysis and visualizations, I experimented with ARIMA, ETS, Prophet and Neural Network models and used residual diagnostics and other evaluation metrics to select the best forecast for the data.
 - Skills: **R, Time Series Analytics**
 
-  
+<br>
+
+
 ## [Project 3: Twitter Sentiment Analysis](https://ucladatares.medium.com/twitter-sentiment-analysis-analyzing-the-use-of-hashtags-in-the-black-lives-matter-movement-f9e5d9013ff9)
 
 <img align="left" width="40%" height="40%" src="/assets/img/timeline.png">
