@@ -7,7 +7,7 @@ I am Sia Phulambrikar, a Junior at UCLA double majoring in Data Theory and Econo
 </a>
 
 <a href="mailto:phulambrikarsia@gmail.com">
-        <img width="5%" height="5%" src="/assets/img/envelope-regular.svg">
+        <img width="5%" height="5%" padding = "50px" src="/assets/img/envelope-regular.svg">
 </a>
 </div>
 <br>
