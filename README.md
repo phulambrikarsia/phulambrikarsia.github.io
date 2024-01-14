@@ -3,7 +3,7 @@
 I am Sia Phulambrikar, a Junior at UCLA double majoring in Data Theory and Economics. I'm passionate about Analytics and its potential in making businesses more efficient. In my free time, I enjoy hiking, painting and trying new cuisines. Check out my data science projects below!
 
 <a href="https://www.linkedin.com/in/phulambrikarsia/">
-        <img align="left" width="5%" height="5%" src="/assets/img/linkedin-2.svg">
+        <img align="left" width="5%" height="5%" padding = "50px" src="/assets/img/linkedin-2.svg">
 </a>
 
 <a href="mailto:phulambrikarsia@gmail.com">
