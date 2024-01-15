@@ -1,6 +1,10 @@
 # About Me
 
-I am Sia Phulambrikar, a Junior at UCLA double majoring in Data Theory and Economics. I'm passionate about Analytics and its potential in making businesses more efficient. In my free time, I enjoy hiking, painting and trying new cuisines. Check out my data science projects below!
+I am Sia Phulambrikar, a Junior at UCLA double majoring in Data Theory and Economics.   
+
+My technical skillset includes Python, R, SQL, Tableau and Excel. I am experienced in NLP, Time Series Forecasting, Predictive Modeling, Data Visualization, and Statistical analysis. I'm interested in the intersection of Data Science and Business Management.   
+
+In my free time, I enjoy hiking, painting and trying new cuisines. Check out my data science projects below!
 
 <a href="https://www.linkedin.com/in/phulambrikarsia/"><img height="35" src="/assets/img/linkedin-2.svg" style="padding-right: 10px;"></a>
 <a href="mailto:phulambrikarsia@gmail.com"><img height="35" src="/assets/img/envelope-regular.svg" style="padding-right: 10px;"></a>
